@@ -1,0 +1,39 @@
+h2 {
+  color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 20;
+}
+
+#aboutme {
+  color: yellowgreen;
+}
+
+p.exclusive {
+  color: violet;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: turquoise;
+}
+
+div.second > p.thisonly {
+}
+
+/*
+Mas priority na sundan ni h2 ung inline, internal bago ang external
+
+raleway font
+
+Shortcuts
+fn for fonts
+colors rgb  or type# to black or hexadecimal
+
+
+search color hunt
+search google fonts raleway 
+
+
+signup github
+w3c validator
+*/
